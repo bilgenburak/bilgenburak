@@ -6,7 +6,7 @@ iOS Developer
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [bilgenburak@outlook.com](mailto:bilgenburak@outlook.com)
-* 🚀  I'm currently working on [MentorGem](http://https://www.mentorgem.com/)
+* 🚀  I'm currently working on [MentorGem](https://https://www.mentorgem.com/)
 
 <a href="https://www.twitter.com/_burakbilgen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_burakbilgen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
