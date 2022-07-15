@@ -1,4 +1,5 @@
-Hi 👋 My name is Burak Bilgen
+<h1 align="center">Hi 👋, I'm Burak Bilgen</h1>
+<h3 align="center">A passionate iOS Developer from Turkey</h3>
 =============================
 
 iOS Developer
@@ -17,8 +18,8 @@ src="https://img.shields.io/twitter/follow/_burakbilgen?logo=twitter&style=for-t
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://www.https://slack.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" width="36" height="36" alt="Slack" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
