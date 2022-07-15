@@ -4,9 +4,9 @@ Hi 👋 My name is Burak Bilgen
 iOS Developer
 -------------
 
-* 🌍  I'm based in Istanbul
+* 🌍  I'm based in Turkey
 * ✉️  You can contact me at [bilgenburak@outlook.com](mailto:bilgenburak@outlook.com)
-* 🚀  I'm currently working on [MentorGem](https://www.mentorgem.com/)
+* 🚀  I'm currently working on [MentorGem](https://www.mentorgem.com/) @[GreenMusk](https://www.greenmusk.com/)
 
 <a href="https://www.twitter.com/_burakbilgen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_burakbilgen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -16,8 +16,9 @@ src="https://img.shields.io/twitter/follow/_burakbilgen?logo=twitter&style=for-t
 
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
 
