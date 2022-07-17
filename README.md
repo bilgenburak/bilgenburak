@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Burak Bilgen</h1>
-<h3 align="center">A passionate iOS Developer from Turkey</h3>
+<h1 align="left">Hi 👋, I'm Burak Bilgen</h1>
+<h3 align="left">A passionate iOS Developer from Turkey</h3>
 
-iOS Developer
--------------
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [bilgenburak@outlook.com](mailto:bilgenburak@outlook.com)
